@@ -4,9 +4,9 @@
 
 ### 🚀 Full Stack Developer | Data Visualization Enthusiast | UI/UX Lover
 
-[![GitHub followers](https://img.shields.io/github/followers/yourusername?style=social)](https://github.com/yourusername)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat&logo=react&logoColor=white)](https://yourportfolio.com)
+[![GitHub followers](https://img.shields.io/github/followers/pujasahare16?style=social)](https://github.com/pujasahare16)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/puja-sahare-b672902bb)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat&logo=react&logoColor=white)](https://github.com/pujasahare16)
 
 </div>
 
@@ -61,11 +61,11 @@ const pujas = {
 
 <div align="center">
   
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pujasahare16&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pujasahare16&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical&hide_border=true&background=0D1117&stroke=F85D7F&ring=F85D7F&fire=F8D866&currStreakLabel=F8D866)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=pujasahare16&theme=radical&hide_border=true&background=0D1117&stroke=F85D7F&ring=F85D7F&fire=F8D866&currStreakLabel=F8D866)
 
 </div>
 
@@ -75,17 +75,17 @@ const pujas = {
 
 <div align="center">
 
-### 💝 [Romantic Journey](https://github.com/yourusername/greeting-card)
+### 💝 [Romantic Journey](https://github.com/pujasahare16/greeting-card)
 > A beautiful multi-page romantic experience with smooth animations and interactive elements
 > 
 > **Tech:** HTML, CSS, JavaScript, Animations
 
-### 🧮 [Animated Calculator](https://github.com/yourusername/calculator)
+### 🧮 [Animated Calculator](https://github.com/pujasahare16/calculator)
 > A visually stunning calculator with advanced CSS animations and smooth interactions
 > 
 > **Tech:** HTML, CSS, JavaScript, Animations
 
-### 📈 [Data Visualization Dashboard](https://github.com/yourusername/data-viz)
+### 📈 [Data Visualization Dashboard](https://github.com/pujasahare16/data-viz)
 > Interactive dashboard showcasing various data visualization techniques
 > 
 > **Tech:** React, Tailwind CSS, Chart.js, D3.js
@@ -118,7 +118,7 @@ const myAchievements: Achievements = {
 
 <div align="center">
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=yourusername&theme=react-dark&hide_border=true&area=true&bg_color=0D1117&color=F85D7F&line=F8D866&point=FFFFFF)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=pujasahare16&theme=react-dark&hide_border=true&area=true&bg_color=0D1117&color=F85D7F&line=F8D866&point=FFFFFF)
 
 </div>
 
@@ -137,10 +137,10 @@ const myAchievements: Achievements = {
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourusername)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=react&logoColor=white)](https://yourportfolio.com)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pujasahare16@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/puja-sahare-b672902bb)
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/pujasahare16)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=react&logoColor=white)](https://github.com/pujasahare16)
 
 </div>
 
@@ -158,8 +158,8 @@ const myAchievements: Achievements = {
 
 ---
 
-![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=F85D7F&style=for-the-badge)
+![Profile Views](https://komarev.com/ghpvc/?username=pujasahare16&color=F85D7F&style=for-the-badge)
 
-**⭐ From [yourusername](https://github.com/yourusername) with ❤️**
+**⭐ From [pujasahare16](https://github.com/pujasahare16) with ❤️**
 
 </div>
